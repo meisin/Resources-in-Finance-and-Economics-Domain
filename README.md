@@ -1,5 +1,11 @@
-# Resources-in-Finance-and-Economics-Domain
+# Resources in Finance and Economics Domain
 A library listing down available resources for the Finance and Economics domain
+
+## Pre-trained Language Models
+1. FinBERT: A pre-trained Financial Language Representation Model for Financial Text Mining(https://www.ijcai.org/proceedings/2020/0622.pdf)
 
 ## Datasets
 1. FinSBD
+
+
+
