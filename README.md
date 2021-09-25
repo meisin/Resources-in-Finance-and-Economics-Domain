@@ -13,8 +13,12 @@ A library listing down available resources for the Finance and Economics domain
 | 4. [RedditFinanceQA](https://www.reddit.com)  |                                                    |
 
 ## Fine-tuning tasks involving Financial dataset
-|           Dataset       |       Task        |   Description |
-|-------------------------|-------------------|---------------|
-| 1. [FinSBD-2019](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (IJCAI 2019 FinNLP challenge) | Financial Sentence Boundary Detection | contains financial text that had
-been pre-segmented automatically. There are 953 distinct beginning tokens and 207 distinct ending tokens in the training and dev sets of FinSBD-2019 data. |
-
+1. [FinSBD-2019](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (IJCAI 2019 FinNLP challenge)
+   Task: Financial Sentence Boundary Detection
+   Description: contains financial text that had been pre-segmented automatically. There are 953 distinct beginning tokens and 207 distinct ending tokens in the training and dev sets of FinSBD-2019 data.
+   
+2. [Financial PhaseBank](https://www.researchgate.net/publication/251231364 FinancialPhraseBank-v10/) 
+   Task: Financial Sentiment Analysis
+   Description: consists of 4845 English sentences selected randomly from financial news found on LexisNexis database. 
+   
+3. [FiQA](https://sites.google.com/view/fiqa/home/)
