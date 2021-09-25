@@ -7,7 +7,7 @@ A library listing down available resources for the Finance and Economics domain
 ## Datasets
 |               Dataset               |         Task         |               Description              |
 | ----------------------------------- | -------------------- | -------------------------------------- |
-| 1. FinancialWeb (totaling 24GB, 6.38B words)|                      |                                        |
+| 1. FinancialWeb (totaling 24GB, 6.38B words)(http://commoncrawl.org)|                      |                                        |
 | 2.            |                      |                                        |
 
 
