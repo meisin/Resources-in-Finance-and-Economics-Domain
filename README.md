@@ -22,3 +22,15 @@ A library listing down available resources for the Finance and Economics domain
    Description: consists of 4845 English sentences selected randomly from financial news found on LexisNexis database. 
    
 3. [FiQA](https://sites.google.com/view/fiqa/home/)
+   Task: Financial Sentiment Analysis (-1 is negative and 1 is positive)
+   Description: contains two discourse: (1) Financial news headline (529 annotated headlines) and (2) Financial Microblogs (774 annotated samples) , with manual annotated target entities, sentiment scores and aspects.
+  This dataset was created for WWW18 conference financial opinion mining and question answering challenge. 
+  
+
+
+
+
+Other github tabulating information about AI + Finance:
+1. https://github.com/sangyx/deep-finance
+2. https://github.com/YangLinyi/FinNLP-Progress
+3. 
