@@ -33,4 +33,28 @@ A library listing down available resources for the Finance and Economics domain
 Other github tabulating information about AI + Finance:
 1. https://github.com/sangyx/deep-finance
 2. https://github.com/YangLinyi/FinNLP-Progress
-3. 
+
+
+Areas of research for NLP in Finance and Economics:
+• NLP-based (stock) market analytics, e.g., prediction of economic performance indicators (trend prediction, performance forecasting, etc.), by analyzing verbal statements of enterprises, businesses, companies, and associated legal or administrative actors
+• NLP-based product analytics, e.g., based on social and mass media monitoring, summarizing reviews, classifying and mining complaint messages and other (non)verbal types of customer reactions to products or services
+• NLP-based customer analytics, e.g., client profiling, tracking product/company preferences, screening customer reviews or complaints, identifying high-influentials in economy-related communication networks
+• NLP-based organization/enterprise analytics (e.g., tracing and altering social images of organizational actors, risk prediction, fraud analysis, predictive analysis of annual business, sustainability and auditing reports)
+• Analysis of market sentiments and emotions as evident from consumers’ and enterprises’ verbal behavior and their communication strategies about products, services or market performance
+• Competitive intelligence services based on NLP tooling
+• Relationships and interactions between quantitative (structured) economic data (e.g., contained sales databases and associated time series data) and qualitative (unstructured verbal) economic data (press releases, newswire streams, social media contents, etc.)
+• Organizational information management based on the content-based assembling, packaging and archiving of verbal communication streams in organizations/enterprises (emails, meeting minutes, business letters, internal reporting, etc.)
+• Credibility and trust models for business agents involved in the economic process (e.g., as traders, sellers, advertisers) extracted from text/opinion mining their current communication as well as legacy data
+• Deceptive or fake information recognition related to economic objects (such as products, advertisements, etc.) or economic actors (such as industries, companies, etc.), including opinionspam targeting or emanating from economic actors and processes
+• Verbally fluent software agents (chat bots for counseling, sales and marketing) as reliable actors in economic processes serving business interests, e.g., embodying models of persuasion, information biases, fair trading
+• Enterprise search engines (e-commerce, e-marketing) involving NLP analytics 
+• Consumer search engines, market monitors, product/service recommender systems involving NLP analytics
+• Client-supplier interaction platforms (e.g., portals, helps desks, newsgroups) and transaction support systems based on written or spoken natural language communication
+• Multi-media and multi-modality interaction platforms, including written/spoken language channels, triggering or supporting economic processes
+• Specialized modes of information extraction and text mining in economic domains, e.g., temporal event or transaction mining
+• Information aggregation from economy-related discourse, from and across single sources (e.g., review summaries, automatic threading)
+• Text generation in economic domains, e.g., review generation, complaint response generation
+• Ontologies for economics, lexicons for the economy domain or adaptation of general-domain lexicons for economic NLP – acquisition, maintenance or update of such terminological resources
+• Corpora and annotations policies (guidelines, metadata schemata, etc.) for economics-related NLP
+• Economy-specific text genres (business reports, sustainability reports, auditing documents, product reviews, economic newswire, business letters, law documents, etc.) and their usage for NLP
+• Dedicated software resources for economic NLP (e.g., NER taggers, sublanguage parsers, pipelines or end-to-end systems for processing economic discourse)
