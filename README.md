@@ -12,6 +12,14 @@ A library listing down available resources for the Finance and Economics domain
 | 3. [YahooFinance](https://finance.yahoo.com)  |                                                    |
 | 4. [RedditFinanceQA](https://www.reddit.com)  |                                                    |
 
+
+FinancialPhrase Bank
+FinTextSen
+FinCausal2020
+Numeral Understanding (FinNum-1/NTCIR-14)
+Numerical Attachment (FinNum-2/NTCIR-15)
+
+
 ## Fine-tuning tasks involving Financial dataset
 1. [FinSBD-2019](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (IJCAI 2019 FinNLP challenge)
    Task: Financial Sentence Boundary Detection
