@@ -19,6 +19,10 @@ FinCausal2020
 Numeral Understanding (FinNum-1/NTCIR-14)
 Numerical Attachment (FinNum-2/NTCIR-15)
 
+Loughran & McDonald’s Dictionary(https://sraf.nd.edu/textual-analysis/resources/#Master%20Dictionary)
+
+
+
 
 ## Fine-tuning tasks involving Financial dataset
 1. [FinSBD-2019](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (IJCAI 2019 FinNLP challenge)
